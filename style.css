@@ -1,0 +1,28 @@
+* {
+   box-sizing: border-box;
+   color: black;
+}
+
+.container {
+   background-color: #B7B6C2;
+   padding: 15px;
+   border-radius: 10px;
+   box-shadow: 5px 10px;
+}
+
+.btn {
+   background-color: #C98686;
+   border-color: #55828B;
+}
+
+.btn:hover {
+   background-color: #924849;
+   border-color: #364958;
+}
+
+body {
+   background: #585481;
+   background-size:cover;
+   align-items: center;
+}
+
